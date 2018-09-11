@@ -1,11 +1,14 @@
 
-#raw data files, some static files
-
+# raw data files, some static files
 .xlsx
 .xlsm
 .pptm
 .pptx
 MCM*
+*.xl*
+*.ppt*
+
+
 
 # History files
 .Rhistory
